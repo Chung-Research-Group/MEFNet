@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/graphs/
+data/grids/
+data/split/
+data/split_random/
+results/
