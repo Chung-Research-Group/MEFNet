@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/MEFNet_banner.png" alt="MEFNet: Multi-modal Electrostatic Field Network" width="100%">
+</p>
+
 # MEFNet
 
 MEFNet predicts MOF properties from three inputs computed for each structure:
