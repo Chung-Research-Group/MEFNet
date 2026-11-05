@@ -30,7 +30,7 @@ Scheme 1b-e are in the paper.
 ```bash
 conda create -n mefnet python=3.11
 conda activate mefnet
-git clone https://github.com/yoonseonghyun/MEFNet.git && cd MEFNet
+git clone https://github.com/Chung-Research-Group/MEFNet.git && cd MEFNet
 pip install -r requirements.txt
 ```
 
